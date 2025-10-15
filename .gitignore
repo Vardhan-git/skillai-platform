@@ -1,0 +1,6 @@
+"config/" 
+"__pycache__/" 
+"*.log" 
+".env" 
+"logs/" 
+"data/" 
